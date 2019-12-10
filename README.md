@@ -28,7 +28,7 @@ Cada vehiculo tiene los siguientes datos:
 
  - Te recomendamos que uses Flask o Django para hacer tu app. 
  - Bonus points si agregas Unit Tests. 
- - Bonus points si levantas esta API en un servicio como Amazon Web Services o Google Cloud. 
+ - Bonus points si levantas esta API en un servicio como Amazon Web Services o Google Cloud o Heroku. 
 
 La evaluación tendra la siguiente forma:
 
