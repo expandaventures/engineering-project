@@ -26,7 +26,7 @@ Cada vehiculo tiene los siguientes datos:
 2. Proveer instrucciones para instalar y levantar en ambiente local la APP.
 3. Proveer ejemplos con CURL  para Insertar, actualizar y borrar cada vehículo.
 
- - Te recomendamos que uses Flask o Django para hacer tu app. 
+ - Te recomendamos que uses Flask o Django para hacer tu app, para el mapa es recomendable usar leaflet o mapbox. 
  - Bonus points si agregas Unit Tests. 
  - Bonus points si levantas esta API en un servicio como Amazon Web Services o Google Cloud o Heroku. 
 
